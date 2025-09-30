@@ -1,4 +1,4 @@
-elbody {
+body {
     background-color: rgb(255, 216, 212);
     color: rgb(0,0,0);
     font-family: "Open Sans", sans-serif;
@@ -9,10 +9,6 @@ elbody {
     display: block;
     margin-left: auto;
     margin-right: auto
-}
-
-#easel {
-	text-align: center;	
 }
 
 header {
